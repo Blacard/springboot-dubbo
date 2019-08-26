@@ -1,8 +1,9 @@
 package com.example.api;
+
 /**
  * @author SunAo
- * @Date 2019/8/22
+ * @Date 2019/8/23
  **/
-public interface DemoService {
+public interface HelloService {
     String sayHello(String name);
 }
